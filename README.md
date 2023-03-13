@@ -1,2 +1,2 @@
 # random_quote_generator
-I Use API to generate random quoate 
+#I use HTML , CSS and JS with API to generate random quoate 
